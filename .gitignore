@@ -4,6 +4,6 @@
 *.stash
 *.exe
 *.o
-1 chapter/build*
 *.Debug
 *.Release
+*Makefile
